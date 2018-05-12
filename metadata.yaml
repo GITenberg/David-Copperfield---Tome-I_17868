@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17868#David-Copperfield---Tome-I
 gutenberg_bookshelf:
 - FR Littérature
 - Harvard Classics
