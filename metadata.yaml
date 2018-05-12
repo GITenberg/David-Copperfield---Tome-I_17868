@@ -1,0 +1,48 @@
+_repo: David-Copperfield---Tome-I_17868
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lorain, P. (Paul)
+    alias: Lorain, Paul
+    birthdate: 1799
+    deathdate: 1861
+    gutenberg_agent_id: '7663'
+    url: http://www.gutenberg.org/2009/agents/7663
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- Harvard Classics
+gutenberg_issued: '2006-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17868'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Child labor -- Fiction'
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Stepfathers -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+title: David Copperfield - Tome I
+url: http://www.gutenberg.org/ebooks/17868
